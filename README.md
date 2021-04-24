@@ -59,7 +59,7 @@ pork = 4 feet
 
 The farmer has counted the animals and he gives you the subtotals for each species. You have to implement a function that returns the total number of legs of all animals.
 
-* Remember that breeders want to know the total number of feet and not the total number of animals
+Remember that breeders want to know the total number of feet and not the total number of animals
 ![link_text](https://github.com/adibintangprada/Beginner_Python_Exercise/blob/main/No.%2011.png)
 
 ### No. 12
